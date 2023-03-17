@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+}
+
+div{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+article{
+    display: grid;
+    grid-template-areas:
+    "kep0 kep1 kep2 kep3"
+    "kep4 kep5 kep6 kep7"
+    "kep8 kep9 kep10 kep11"
+    "kep12 kep13 kep14 kep15"
+    "kep16 kep17 kep18 kep19"
+    "kep20 kep21 kep22 kep23"
+    "kep24 kep25 kep26 kep27"
+    "kep28 kep29 kep30 kep31"
+    "kep32 kep33 kep34 kep35"
+    "kep36 kep37 kep38 kep39";
+}
